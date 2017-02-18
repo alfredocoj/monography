@@ -3,10 +3,10 @@ PROJETO DO FILTRO DE KALMAN EM UM MANIPULADOR ROBÓTICO USANDO UM ALGORÍTMO GEN
 
 by
 Alfredo Costa Oliveira Junior,
-Laboratório de Processamento da Informação Biológica, Universidade Federal do Maranhão
-Bacharel em Engenharia de Computação,
+Monografia (Graduação),
+Curso de Engenharia da Computação,
 Universidade Estadual do Maranhão,
-Maranhão, Brasil.
+Maranhão, Brasil, 2014.
 
 # Resumo
 ======
@@ -21,3 +21,10 @@ This research aims to use design Kalman Filter to estimate the state variables o
 ======
 
 Este repositório conterá a monografia e todo o código relacionado a esta pesquisa.
+
+
+Ao referenciar este material, inclua a citação:
+======
+Oliveira Junior, Alfredo Costa.
+Projeto de Filtro de Kalman em um Manipulador Robótico usando um
+Algoritmo Genético / Alfredo Costa Oliveira Junior.– São Luís, 2014.
