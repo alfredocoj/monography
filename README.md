@@ -2,13 +2,11 @@ PROJETO DO FILTRO DE KALMAN EM UM MANIPULADOR ROBÓTICO USANDO UM ALGORÍTMO GEN
 ======
 
 by
-André Cavalcante,
-Ohnishi Laboratory,
-Graduate School of Information Science,
-Nagoya University,
-Japan.
-
-PDF: http://ir.nul.nagoya-u.ac.jp/jspui/bitstream/2237/21837/1/主論文.pdf
+Alfredo Costa Oliveira Junior,
+Laboratório de Processamento da Informação Biológica, Universidade Federal do Maranhão
+Bacharel em Engenharia de Computação,
+Universidade Estadual do Maranhão,
+Maranhão, Brasil.
 
 # Resumo
 ======
