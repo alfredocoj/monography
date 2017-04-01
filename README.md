@@ -28,3 +28,5 @@ Ao referenciar este material, inclua a citação:
 Oliveira Junior, Alfredo Costa.
 Projeto de Filtro de Kalman em um Manipulador Robótico usando um
 Algoritmo Genético / Alfredo Costa Oliveira Junior.– São Luís, 2014.
+
+IVANILDO SILVA ABREU ; ALFREDO COSTA OLIVEIRA JUNIOR ; ISMAEL SILVA DE MELO ; JOSÉ CHARLES MEDEIROS ; PAULA DA COSTA SOUSA . Robustness barriers in LQG/LTR Controller via Hybrid Model Genetic-Neural in Robotic Manipulator. In: 23rd ABCM International Congress of Mechanical Engineering, 2015, Rio de Janeiro, 2015.
