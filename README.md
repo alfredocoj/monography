@@ -1,4 +1,4 @@
-PROJETO DO FILTRO DE KALMAN EM UM MANIPULADOR ROBÓTICO USANDO UM ALGORÍTMO GENÉTICO
+PROJETO DO FILTRO DE KALMAN EM UM MANIPULADOR ROBÓTICO USANDO UM ALGORÍTMO GENÉTICO (KALMAN FILTER DESIGN ON A ROBOTIC HANDLER USING A GENETIC ALGORITHM)
 ======
 
 by
@@ -17,13 +17,13 @@ Este trabalho tem como objetivo utilizar o projeto do Filtro de Kalman para esti
 
 This research aims to use design Kalman Filter to estimate the state variables of a robotic manipulator, since the same are not available in practice. The problem of the Kalman filter is solved using the methodology of robust control LQG, this means that both the uncertainty with respect to the state variables, as the disturbances are considered during the controller design. Furthermore, it means that the designed controller can tolerate the error modeling without significantly degrading the performance of the control system. Regarding the evaluation of this methodology, it has been analyzed the response in the time domain for a unit impulse input, evaluating peak time, settling time, and steady-state error, and in the frequency domain, evaluating parameters such as: Gain Margin, Margin Phase, bandwidth, resonance frequency and resonance peak. It has been observed that the Kalman Filter has fulfilled its role of estimating states, satisfactorily, and performance and stability of the compensated system had desired behavior, even in the presence of noise in the plant and noise in the measurement, and additional poles not modeled. 
 
-# Conteúdo desse repositório
+# Contents of this repository
 ======
 
-Este repositório conterá a monografia e todo o código relacionado a esta pesquisa.
+This repository will contain the monograph and all code related to this search.
 
 
-Ao referenciar este material, inclua a citação:
+When referencing this material, include the quote:
 ======
 Oliveira Junior, Alfredo Costa.
 Projeto de Filtro de Kalman em um Manipulador Robótico usando um
